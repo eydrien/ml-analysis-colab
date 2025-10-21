@@ -109,7 +109,7 @@ ml-analysis-colab/
 
 ## 🔗 Enlaces Importantes
 
-- 📘 **Notebook en Google Colab:** [Abrir en Colab](https://colab.research.google.com/) *[](https://colab.research.google.com/drive/1CTDHwTKTGVnzbLcd9dcDwEjBoqgWmwqj?authuser=1#scrollTo=ML6R5RIWBU3u)*  
+- 📘 **Notebook en Google Colab:** *[data_analysis.ipynb](https://colab.research.google.com/drive/1CTDHwTKTGVnzbLcd9dcDwEjBoqgWmwqj?authuser=1#scrollTo=ML6R5RIWBU3u)*  
 - 🎥 **Video de Sustentación:** **  
 
 ---
